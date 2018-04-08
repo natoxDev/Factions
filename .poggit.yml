@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/natoxDev/Factions
+branches:
+- master
+projects: []
+Plugin : FactionsPro traduit par NATOXMCPE !
+...
